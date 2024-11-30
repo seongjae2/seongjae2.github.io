@@ -1,4 +1,12 @@
 {
+  "_comment" : " This is not in use ",
+  "key": {
+    "subkey" : "value",
+    "attribute" : "value"
+  }
+}
+
+{
   "basics": {
     "name": "Albert Einstein",
     "label": "Scientist",
