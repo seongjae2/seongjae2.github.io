@@ -100,7 +100,7 @@
       "area": "Computer Science & Engineering",
       "studyType": "Exchange Program",
       "startDate": "2021-12-23",
-      "endDate": "2022-01-24",
+      "endDate": "2022-01-24"
     }
   ],
   "honors": [
@@ -111,7 +111,7 @@
       "url": "",
       "summary": "",
       "startDate": "2021-06-14",
-      "endDate": "2021-09-03",
+      "endDate": "2021-09-03"
     },
     {
       "title": "Academic Excellence Scholarship",
@@ -120,7 +120,7 @@
       "url": "",
       "summary": "",
       "startDate": "2021-06-14",
-      "endDate": "2021-09-03",
+      "endDate": "2021-09-03"
     },
     {
       "title": "National Scholarship of Excellence",
@@ -129,7 +129,7 @@
       "url": "",
       "summary": "",
       "startDate": "2021-06-14",
-      "endDate": "2021-09-03",
+      "endDate": "2021-09-03"
     }
   ],
   "awards": [
@@ -204,7 +204,7 @@
       "highlights": [
       ],
       "startDate": "2024-03-01",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "name": "LLM-based Glucose Index Prediction System",
@@ -212,7 +212,7 @@
       "highlights": [
       ],
       "startDate": "2024-11-01",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "name": "Personalized PPGR dection algorithm and LLM-based Nutrient Management System",
@@ -220,7 +220,7 @@
       "highlights": [
       ],
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": ""
     },
     {
       "name": "Real-Time Arrhythmia Classification System",
@@ -230,7 +230,7 @@
         "Quantization and lightweight Wavelet-CNN model development"
       ],
       "startDate": "2023-08-01",
-      "endDate": "2024-02-01",
+      "endDate": "2024-02-01"
     },
     {
       "name": "FPGA-based Edge Computing System",
@@ -240,7 +240,7 @@
         "Modified DNN to BNN using Xilinx's FINN framework"
       ],
       "startDate": "2022-08-01",
-      "endDate": "2023-02-01",
+      "endDate": "2023-02-01"
     }
   ]
 }
