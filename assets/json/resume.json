@@ -1,12 +1,4 @@
 {
-  "_comment" : " This is not in use ",
-  "key": {
-    "subkey" : "value",
-    "attribute" : "value"
-  }
-}
-
-{
   "basics": {
     "name": "Seongjae Lee",
     "label": "Ph.D. Student",
@@ -100,7 +92,7 @@
       "endDate": "2023-07-28",
       "score": "",
       "highlights": ["Student Exchange Scholarship Program"]
-    }
+    },
     {
       "institution": "Seoul National University",
       "location": "Seoul, RoK",
