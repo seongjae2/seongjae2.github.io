@@ -6,7 +6,7 @@
     "email": "seongjae.lee@postech.ac.kr",
     "phone": "",
     "url": "seongjae2.github.io",
-    "summary": "An undergraduate student with expertise in biomedical engineering, medical device development, and real-time system design.",
+    "summary": "An Ph.D. student with expertise in biomedical engineering, medical device development, and real-time system design.",
     "location": {
       "address": "C5, 80, Jigok-ro, Nam-gu",
       "postalCode": "37666",
@@ -61,7 +61,7 @@
     },
     {
       "organization": "Student Mentorship Program",
-      "location": "",
+      "location": "Pohang-si, RoK",
       "position": "Mentor of Basic Programming",
       "url": "",
       "startDate": "2021-03-01",
@@ -73,7 +73,7 @@
   "education": [
     {
       "institution": "POSTECH, Pohang University of Science and Technology",
-      "location": "Pohang, Korea",
+      "location": "Pohang, RoK",
       "url": "https://postech.ac.kr/eng/",
       "area": "Convergence IT Engineering",
       "studyType": "Bachelor's Degree",
@@ -103,49 +103,41 @@
       "endDate": "2022-01-24"
     }
   ],
-  "honors": [
-    {
-      "title": "National Scholarship of Excellence",
-      "date": "2022-02-01",
-      "awarder": "Korea Scholarship Foundation",
-      "url": "",
-      "summary": "",
-      "startDate": "2021-06-14",
-      "endDate": "2021-09-03"
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2022-02-01",
-      "awarder": "Korea Scholarship Foundation",
-      "url": "",
-      "summary": "",
-      "startDate": "2021-06-14",
-      "endDate": "2021-09-03"
-    },
-    {
-      "title": "National Scholarship of Excellence",
-      "date": "2022-02-01",
-      "awarder": "Korea Scholarship Foundation",
-      "url": "",
-      "summary": "",
-      "startDate": "2021-06-14",
-      "endDate": "2021-09-03"
-    }
-  ],
   "awards": [
     {
-      "title": "Future Talent Training Scholarship",
+      "title": "Next Generation Leader Scholarship",
       "date": "2022-02-01",
       "awarder": "Korea Foundation For Advanced Studies",
-      "url": "",
-      "summary": ""
+      "url": "https://www.kfas.or.kr/",
+      "summary": "Awarded a merit-based scholarship given to 20 top national youths for academic excellence and leadership potential from the [Korea Foundation for Advanced Studies](https://www.kfas.or.kr/) funded by SK Group (750m KRW)"
     },
     {
-      "title": "Academic Excellence Scholarship",
+      "title": "National Scholarship of Excellence (Science Eng.)",
       "date": "2022-02-01",
-      "awarder": "POSTECH",
+      "awarder": "Korea Scholarship Foundation",
       "url": "",
-      "summary": ""
+      "summary": "Awarded a merit-based scholarship given to top national youths"
+    },
+    {
+      "title": "PROUD POSTECHIAN Award, Highest Honor",
+      "date": "2024-02-02",
+      "awarder": "President of POSTECH",
+      "url": "https://www.newsis.com/view/NISX20240203_0002615644",
+      "summary": "The Proud POSTECHIAN Award is presented to individuals who, during their studies, have developed the university's desired competencies and values through active participation in extracurricular activities, focusing on essential skills that are challenging to cultivate solely through academic coursework."
+    },
+    {
+      "title": "Scholarship of ICT Creative Consilience Program",
+      "date": "2022-02-01",
+      "awarder": "Ministry of Science and ICT, Korea",
+      "url": "",
+      "summary": "12m KRW of full funding of undergraduate students"
+    },
+    {
+      "title": "1st Place in University Venture Investment Competition Korea (UVICK)",
+      "date": "2024-12-19",
+      "awarder": "Ministry of SMEs and Startups, Korea",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=628473",
+      "summary": "POSTECH secured first place in the inaugural University Venture Investment Competition Korea (UVICK), organized by the Korea Venture Capital Association. As a result, POSTECH will represent Korea at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025. The UVICK competition aims to cultivate future venture capitalists by providing graduate students with hands-on experience in venture investment."
     }
   ],
   "publications": [
@@ -223,6 +215,16 @@
       "endDate": ""
     },
     {
+      "name": "BRIDGE: A vocational training program connecting local small and medium-sized enterprises (SMEs) with Koryoin (ethnic Korean diaspora).",
+      "summary": "Designed a vocational education program for Koryeo immigrants in Jeon-buk Province, providing a platform for tripartite engagement amongst local companies, regional government, and immigration centers",
+      "highlights": [
+        "Conducted in-depth analysis of Korea's foreign labor market, immigrant support policy and Koryeo communities securing 10m KRW in funding",
+        "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
+      ],
+      "startDate": "2023-02-01",
+      "endDate": "2024-01-01"
+    },
+    {
       "name": "Real-Time Arrhythmia Classification System",
       "summary": "Developed lightweight model on ultra-edge sensors for real-time arrhythmia classification.",
       "highlights": [
@@ -241,6 +243,16 @@
       ],
       "startDate": "2022-08-01",
       "endDate": "2023-02-01"
+    },
+    {
+      "name": "Next Generation Leader Scholarship:SOUL Project",
+      "summary": " Designed a vocational education program for Koryeo immigrants in Jeon-buk Province, providing a platform for tripartite engagement amongst local companies, regional government, and immigration centers",
+      "highlights": [
+        "Conducted in-depth analysis of Korea's foreign labor market, immigrant support policy and Koryeo communities securing $8,000 in funding",
+        "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
+      ],
+      "startDate": "2022-02-01",
+      "endDate": "2024-01-01"
     }
   ]
 }

@@ -9,16 +9,3 @@
       value: Korean, English, French(basic)
 
 - title: Education
-  type: time_table
-  contents:
-    - title: MS-PhD pursuing
-      institution: Pohang University of Science and Technology(POSTECH)
-      year: 2024~
-      description:
-        - Major in Medical Science and Engineering
-    - title: BS
-      institution: Pohang University of Science and Technology(POSTECH)
-      year: 2020-2024
-      description:
-        - Convergence IT Engineering.
-        - GPA, 4.02 (Summa Cum laude).
