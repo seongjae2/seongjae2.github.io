@@ -105,6 +105,21 @@
   ],
   "awards": [
     {
+      "title": "1st Place in University Venture Investment Competition Korea (UVICK)",
+      "date": "2024-12-19",
+      "awarder": "Ministry of SMEs and Startups, Korea",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=628473",
+      "summary": "POSTECH secured first place in the inaugural University Venture Investment Competition Korea (UVICK), organized by the Korea Venture Capital Association. As a result, POSTECH will represent Korea at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025. The UVICK competition aims to cultivate future venture capitalists by providing graduate students with hands-on experience in venture investment."
+    },
+
+    {
+      "title": "PROUD POSTECHIAN Award, Highest Honor",
+      "date": "2024-02-02",
+      "awarder": "President of POSTECH",
+      "url": "https://www.newsis.com/view/NISX20240203_0002615644",
+      "summary": "The Proud POSTECHIAN Award is presented to individuals who, during their studies, have developed the university's desired competencies and values through active participation in extracurricular activities, focusing on essential skills that are challenging to cultivate solely through academic coursework."
+    },
+    {
       "title": "Next Generation Leader Scholarship",
       "date": "2022-02-01",
       "awarder": "Korea Foundation For Advanced Studies",
@@ -119,25 +134,11 @@
       "summary": "Awarded a merit-based scholarship given to top national youths"
     },
     {
-      "title": "PROUD POSTECHIAN Award, Highest Honor",
-      "date": "2024-02-02",
-      "awarder": "President of POSTECH",
-      "url": "https://www.newsis.com/view/NISX20240203_0002615644",
-      "summary": "The Proud POSTECHIAN Award is presented to individuals who, during their studies, have developed the university's desired competencies and values through active participation in extracurricular activities, focusing on essential skills that are challenging to cultivate solely through academic coursework."
-    },
-    {
       "title": "Scholarship of ICT Creative Consilience Program",
-      "date": "2022-02-01",
+      "date": "2020-02-01",
       "awarder": "Ministry of Science and ICT, Korea",
       "url": "",
       "summary": "12m KRW of full funding of undergraduate students"
-    },
-    {
-      "title": "1st Place in University Venture Investment Competition Korea (UVICK)",
-      "date": "2024-12-19",
-      "awarder": "Ministry of SMEs and Startups, Korea",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=628473",
-      "summary": "POSTECH secured first place in the inaugural University Venture Investment Competition Korea (UVICK), organized by the Korea Venture Capital Association. As a result, POSTECH will represent Korea at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025. The UVICK competition aims to cultivate future venture capitalists by providing graduate students with hands-on experience in venture investment."
     }
   ],
   "publications": [
