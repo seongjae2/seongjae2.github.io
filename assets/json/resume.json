@@ -6,7 +6,7 @@
     "email": "seongjae.lee@postech.ac.kr",
     "phone": "",
     "url": "seongjae2.github.io",
-    "summary": "An Ph.D. student with expertise in biomedical engineering, medical device development, and real-time system design.",
+    "summary": "Ph.D. student with expertise in biomedical engineering, medical device development, and real-time system design.",
     "location": {
       "address": "C5, 80, Jigok-ro, Nam-gu",
       "postalCode": "37666",
@@ -31,10 +31,10 @@
       "name": "Pohang Youngshin High School",
       "location": "Pohang-si, RoK",
       "position": "High School Instructor",
-      "url": "https://www.bagelcode.com/",
+      "url": "https://school.gyo6.net/physhs/main.do?sysId=physhs",
       "startDate": "2024-03-02",
-      "endDate": "2024-12-24",
-      "summary": "As an external guest teacher, I taught 'Advanced Life Science' and 'Life Science Laboratory' courses as part of a specialized class program at the high school.",
+      "endDate": "",
+      "summary": "As an external guest teacher, I teach 'Advanced Life Science' and 'Life Science Laboratory' courses as part of a advanced class program in science at the high school.",
       "highlights": []
     }
   ],
@@ -76,7 +76,7 @@
       "location": "Pohang, RoK",
       "url": "https://postech.ac.kr/eng/",
       "area": "Convergence IT Engineering",
-      "studyType": "Bachelor's Degree",
+      "studyType": "Bachelor's Degree (Summa Cum Laude)",
       "startDate": "2020-02-01",
       "endDate": "2024-02-02",
       "score": "4.03",
@@ -105,11 +105,18 @@
   ],
   "awards": [
     {
+      "title": "ASAN Foundation Scholarship in Biomedical Engineering (For Graduates)",
+      "date": "2025-02-25",
+      "awarder": "ASAN Foundation",
+      "url": "https://www.asanfoundation.or.kr/af/eng.scholarships.scholarships.sp",
+      "summary": "The scholarship is awareded to top-tier students in Biomedical Engineering field in Korea. An honor comes with an annual grant of 20m KRW up to 4 years."
+    },
+    {
       "title": "1st Place in University Venture Investment Competition Korea (UVICK)",
       "date": "2024-12-19",
       "awarder": "Ministry of SMEs and Startups, Korea",
       "url": "https://www.bloter.net/news/articleView.html?idxno=628473",
-      "summary": "POSTECH secured first place in the inaugural University Venture Investment Competition Korea (UVICK), organized by the Korea Venture Capital Association. As a result, POSTECH will represent Korea at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025. The UVICK competition aims to cultivate future venture capitalists by providing graduate students with hands-on experience in venture investment."
+      "summary": "POSTECH secured first place in the University Venture Investment Competition Korea (UVICK), organized by the Korea Venture Capital Association. As a result, POSTECH will represent Korea at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025. The UVICK competition aims to cultivate future venture capitalists by providing graduate students with hands-on experience in venture investment."
     },
 
     {
@@ -124,7 +131,7 @@
       "date": "2022-02-01",
       "awarder": "Korea Foundation For Advanced Studies",
       "url": "https://www.kfas.or.kr/",
-      "summary": "Awarded a merit-based scholarship given to 20 top national youths for academic excellence and leadership potential from the [Korea Foundation for Advanced Studies](https://www.kfas.or.kr/) funded by SK Group (750m KRW)"
+      "summary": "Awarded a merit-based scholarship given to 20 top national youths for academic excellence and leadership potential from the Korea Foundation for Advanced Studies (750m KRW)"
     },
     {
       "title": "National Scholarship of Excellence (Science Eng.)",
@@ -197,7 +204,8 @@
       "highlights": [
       ],
       "startDate": "2024-03-01",
-      "endDate": ""
+      "endDate": "",
+      "url":""
     },
     {
       "name": "LLM-based Glucose Index Prediction System",
@@ -205,7 +213,8 @@
       "highlights": [
       ],
       "startDate": "2024-11-01",
-      "endDate": ""
+      "endDate": "",
+      "url":""
     },
     {
       "name": "Personalized PPGR dection algorithm and LLM-based Nutrient Management System",
@@ -213,7 +222,8 @@
       "highlights": [
       ],
       "startDate": "2024-09-01",
-      "endDate": ""
+      "endDate": "",
+      "url":""
     },
     {
       "name": "BRIDGE: A vocational training program connecting local small and medium-sized enterprises (SMEs) with Koryoin (ethnic Korean diaspora).",
@@ -223,7 +233,8 @@
         "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
       ],
       "startDate": "2023-02-01",
-      "endDate": "2024-01-01"
+      "endDate": "2024-01-01",
+      "url":""
     },
     {
       "name": "Real-Time Arrhythmia Classification System",
@@ -233,7 +244,8 @@
         "Quantization and lightweight Wavelet-CNN model development"
       ],
       "startDate": "2023-08-01",
-      "endDate": "2024-02-01"
+      "endDate": "2024-02-01",
+      "url": "https://ieeexplore.ieee.org/document/10704628"
     },
     {
       "name": "FPGA-based Edge Computing System",
@@ -243,17 +255,20 @@
         "Modified DNN to BNN using Xilinx's FINN framework"
       ],
       "startDate": "2022-08-01",
-      "endDate": "2023-02-01"
+      "endDate": "2023-02-01",
+      "url":""
     },
     {
-      "name": "Next Generation Leader Scholarship:SOUL Project",
-      "summary": " Designed a vocational education program for Koryeo immigrants in Jeon-buk Province, providing a platform for tripartite engagement amongst local companies, regional government, and immigration centers",
+      "name": "VCIC Global Finals",
+      "summary": "Represented POSTECH at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025.",
       "highlights": [
-        "Conducted in-depth analysis of Korea's foreign labor market, immigrant support policy and Koryeo communities securing $8,000 in funding",
-        "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
+        "Served as a team leader at the VCIC in Korea, led the process of building investment strategies and assessing the commercial potential and societal impact of high-tech based start-ups.",
+        "Won first place in University Venture Investment Competition Korea (UVICK)",
+        "Advancing to Global Finals at VCIC (April, North Carolina)"
       ],
-      "startDate": "2022-02-01",
-      "endDate": "2024-01-01"
+      "startDate": "2024-08-24",
+      "endDate": "2025-04-12",
+      "url":""
     }
   ]
 }
