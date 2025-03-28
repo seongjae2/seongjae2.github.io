@@ -24,7 +24,7 @@
       "url": "https://www.bagelcode.com/",
       "startDate": "2021-06-14",
       "endDate": "2021-09-03",
-      "summary": "Assisted in preliminary listing review requests and introduced Employee Stock Ownership Plans (ESOP).",
+      "summary": "Assisted in preliminary listing review requests, introduced Employee Stock Ownership Plans (ESOP), and participated in the development of a new business strategy and building investor relations.",
       "highlights": []
     },
     {
@@ -217,6 +217,18 @@
       "url":""
     },
     {
+      "name": "VCIC Global Finals",
+      "summary": "Represented POSTECH at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025.",
+      "highlights": [
+        "Served as a team leader at the VCIC in Korea, led the process of building investment strategies and assessing the commercial potential and societal impact of high-tech based start-ups.",
+        "Won first place in University Venture Investment Competition Korea (UVICK)",
+        "Advancing to Global Finals at VCIC (April, North Carolina)"
+      ],
+      "startDate": "2024-08-24",
+      "endDate": "2025-04-12",
+      "url":""
+    },
+    {
       "name": "Personalized PPGR dection algorithm and LLM-based Nutrient Management System",
       "summary": "Developing personalized PPGR dection algorithm and LLM-based nutrient management system.",
       "highlights": [
@@ -256,18 +268,6 @@
       ],
       "startDate": "2022-08-01",
       "endDate": "2023-02-01",
-      "url":""
-    },
-    {
-      "name": "VCIC Global Finals",
-      "summary": "Represented POSTECH at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025.",
-      "highlights": [
-        "Served as a team leader at the VCIC in Korea, led the process of building investment strategies and assessing the commercial potential and societal impact of high-tech based start-ups.",
-        "Won first place in University Venture Investment Competition Korea (UVICK)",
-        "Advancing to Global Finals at VCIC (April, North Carolina)"
-      ],
-      "startDate": "2024-08-24",
-      "endDate": "2025-04-12",
       "url":""
     }
   ]
