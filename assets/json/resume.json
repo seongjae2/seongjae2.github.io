@@ -28,6 +28,16 @@
       "highlights": []
     },
     {
+      "name": "[EGN4932] Global Design Thinking in Engineering TA (University of Florida)",
+      "location": "Pohang-si, RoK",
+      "position": "Teaching Assistant",
+      "url": "https://www.eng.ufl.edu/students/students/international/study-abroad/summer/",
+      "startDate": "2024-06-12",
+      "endDate": "2024-07-25",
+      "summary": "Assisted in teaching 'Global Design Thinking in Engineering' course under the guidance of Professor Andrea Goncher and Gloria Kim from University of Florida.",
+      "highlights": []
+    },
+    {
       "name": "Pohang Youngshin High School",
       "location": "Pohang-si, RoK",
       "position": "High School Instructor",
@@ -217,6 +227,15 @@
       "url":""
     },
     {
+      "name": "Personalized PPGR dection algorithm and LLM-based Nutrient Management System",
+      "summary": "Developing personalized PPGR dection algorithm and LLM-based nutrient management system.",
+      "highlights": [
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "url":""
+    },
+    {
       "name": "VCIC Global Finals",
       "summary": "Represented POSTECH at the Venture Capital Investment Competition (VCIC) Global Finals in April 2025.",
       "highlights": [
@@ -229,23 +248,15 @@
       "url":""
     },
     {
-      "name": "Personalized PPGR dection algorithm and LLM-based Nutrient Management System",
-      "summary": "Developing personalized PPGR dection algorithm and LLM-based nutrient management system.",
+      "name": "Apple Developer Academy @ POSTECH - 1st Foundation Program",
+      "summary": "Foundation Member | Challenge-based App Development Program",
       "highlights": [
+        "Participated in Apple’s first foundation cohort, focused on challenge-based, team-driven app development using Swift, SwiftUI, and Xcode",
+        "Applied Apple Human Interface Guidelines to create user-centered, accessible UI/UX",
+        "Collaborated in cross-functional teams to ideate, prototype, and present solutions to real-world problems"
       ],
-      "startDate": "2024-09-01",
-      "endDate": "",
-      "url":""
-    },
-    {
-      "name": "BRIDGE: A vocational training program connecting local small and medium-sized enterprises (SMEs) with Koryoin (ethnic Korean diaspora).",
-      "summary": "Designed a vocational education program for Koryeo immigrants in Jeon-buk Province, providing a platform for tripartite engagement amongst local companies, regional government, and immigration centers",
-      "highlights": [
-        "Conducted in-depth analysis of Korea's foreign labor market, immigrant support policy and Koryeo communities securing 10m KRW in funding",
-        "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
-      ],
-      "startDate": "2023-02-01",
-      "endDate": "2024-01-01",
+      "startDate": "2024-04-24",
+      "endDate": "2024-06-01",
       "url":""
     },
     {
@@ -258,6 +269,17 @@
       "startDate": "2023-08-01",
       "endDate": "2024-02-01",
       "url": "https://ieeexplore.ieee.org/document/10704628"
+    },
+    {
+      "name": "BRIDGE: A vocational training program connecting local small and medium-sized enterprises (SMEs) with Koryoin (ethnic Korean diaspora).",
+      "summary": "Designed a vocational education program for Koryeo immigrants in Jeon-buk Province, providing a platform for tripartite engagement amongst local companies, regional government, and immigration centers",
+      "highlights": [
+        "Conducted in-depth analysis of Korea's foreign labor market, immigrant support policy and Koryeo communities securing 10m KRW in funding",
+        "Collaborated with professionals from the OECD and the Ministry of Employment and Labor"
+      ],
+      "startDate": "2023-02-01",
+      "endDate": "2024-01-01",
+      "url":""
     },
     {
       "name": "FPGA-based Edge Computing System",
