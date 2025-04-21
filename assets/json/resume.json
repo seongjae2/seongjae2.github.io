@@ -141,21 +141,21 @@
       "date": "2022-02-01",
       "awarder": "Korea Foundation For Advanced Studies",
       "url": "https://www.kfas.or.kr/",
-      "summary": "Awarded a merit-based scholarship given to 20 top national youths for academic excellence and leadership potential from the Korea Foundation for Advanced Studies (750m KRW)"
+      "summary": "Awarded a merit-based scholarship given to 20 top national youths for academic excellence and leadership potential from the Korea Foundation for Advanced Studies (7.5m KRW)"
     },
     {
       "title": "National Scholarship of Excellence (Science Eng.)",
       "date": "2022-02-01",
       "awarder": "Korea Scholarship Foundation",
-      "url": "",
-      "summary": "Awarded a merit-based scholarship given to top national youths"
+      "url": "https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_06_01",
+      "summary": "A government-funded scholarship designed to foster outstanding talents in science and engineering and to strengthen national competitiveness by nurturing future key professionals in the field of science and technology."
     },
     {
       "title": "Scholarship of ICT Creative Consilience Program",
-      "date": "2020-02-01",
+      "date": "2020-02-14",
       "awarder": "Ministry of Science and ICT, Korea",
-      "url": "",
-      "summary": "12m KRW of full funding of undergraduate students"
+      "url": "https://i-lab.postech.ac.kr/work/ICT",
+      "summary": "Aims to foster creative and convergent talents equipped with both technological expertise and a foundation in the humanities. 12m KRW of full funding undergraduate student"
     }
   ],
   "publications": [
