@@ -85,8 +85,19 @@
       "institution": "POSTECH, Pohang University of Science and Technology",
       "location": "Pohang, RoK",
       "url": "https://postech.ac.kr/eng/",
+      "area": "Major in Medical Science and Engineering",
+      "studyType": "Ph.D. Student",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "score": "",
+      "highlights": []
+    },
+    {
+      "institution": "POSTECH, Pohang University of Science and Technology",
+      "location": "Pohang, RoK",
+      "url": "https://postech.ac.kr/eng/",
       "area": "Convergence IT Engineering",
-      "studyType": "Bachelor's Degree (Summa Cum Laude)",
+      "studyType": "Bachelor's Degree (Summa Cum Laude, GPA: 4.03/4.3)",
       "startDate": "2020-02-01",
       "endDate": "2024-02-02",
       "score": "4.03",
@@ -110,7 +121,7 @@
       "area": "Computer Science & Engineering",
       "studyType": "Exchange Program",
       "startDate": "2021-12-23",
-      "endDate": "2022-01-24"
+      "endDate": "2022-02-15"
     }
   ],
   "awards": [
