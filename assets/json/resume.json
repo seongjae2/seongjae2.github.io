@@ -50,6 +50,18 @@
   ],
   "volunteer": [
     {
+      "organization": "POSTECH Graduate Student Association",
+      "location": "Pohang-si, RoK",
+      "position": "President",
+      "url": "https://gsa.postech.ac.kr/",
+      "startDate": "2026-03-01",
+      "endDate": "2027-02-28",
+      "summary": "Serving as President of the POSTECH Graduate Student Association for the 2026 academic year, representing graduate students and coordinating initiatives related to student communication, engagement, and welfare.",
+      "highlights": [
+        "Led student council initiatives related to communication, community building, and graduate student support."
+      ]
+    },
+    {
       "organization": "Residential College",
       "location": "Pohang-si, RoK",
       "position": "Residential College Advisor",
@@ -63,7 +75,7 @@
       "organization": "CiTE Department",
       "location": "Pohang-si, RoK",
       "position": "Student Representative",
-      "url": "",
+      "url": "https://cite.postech.ac.kr/",
       "startDate": "2022-01-01",
       "endDate": "2022-12-31",
       "summary": "Modified curriculum for freshmen, organized and conducted departmental events, and successfully reorganized student activities after COVID-19 as the department's student council president.",
@@ -125,6 +137,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Outstanding Poster Award",
+      "date": "2025-11-08",
+      "awarder": "KOSOMBE 2025 Fall Conference",
+      "url": "https://kosombe.or.kr/register/2025_fall/main.html",
+      "summary": "Awarded the Outstanding Poster Award at the KOSOMBE 2025 Fall Conference in recognition of two poster presentations: “Spinal Cord Neural Signals as Digital Biomarkers for Chronic Pain Detection in Contusive Spinal Cord Injury of Rats” and “Glucose aware Large Language Model for Intelligent Nutrition Tailoring (GLINT) in Diabetes Self care.”"
+    },
     {
       "title": "ASAN Foundation Scholarship in Biomedical Engineering (For Graduates)",
       "date": "2025-02-25",
