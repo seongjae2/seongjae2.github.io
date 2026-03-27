@@ -196,6 +196,13 @@
   ],
   "publications": [
     {
+      "name": "Unidirectional dynamic stiffness modulation enables easily insertable and conformally attachable spinal bioelectronic device",
+      "publisher": "npj Flexible Electronics",
+      "releaseDate": "2026-03-04",
+      "url": "https://doi.org/10.1038/s41528-026-00557-1",
+      "summary": "Presents an implantable spinal bioelectronic interface that is stiff enough for easy and minimally invasive insertion, then rapidly becomes flexible in a humid environment to conform to the spinal cord while maintaining long-term electrical stability through a liquid-metal conductor."
+    },
+    {
       "name": "Shuffled ECA-Net for stress detection from multimodal wearable sensor data",
       "publisher": "Computers in Biology and Medicine",
       "releaseDate": "2024-10-03",
